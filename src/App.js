@@ -68,7 +68,7 @@ class App extends React.Component {
       title,
       completed: false,
     };
-    console.log(newTodo);
+    // console.log(newTodo);
     // axios
     //   .post("https://jsonplaceholder.typicode.com/todos", {
     //     title,
